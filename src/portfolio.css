@@ -1,0 +1,69 @@
+.portfolio {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  color: #333;
+}
+
+.header h2 {
+  margin-top: 5px;
+  color: #666;
+}
+
+.contact-info {
+  margin-top: 10px;
+}
+
+.contact-info h3 {
+  margin: 5px 0;
+}
+
+.about,
+.education,
+.at-vit,
+.skills,
+.interests {
+  margin-top: 20px;
+}
+
+.about h2,
+.education h2,
+.at-vit h2,
+.skills h2,
+.interests h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+  color: #333;
+}
+
+.about p,
+.education-item p,
+.at-vit p,
+.talent p,
+.interests ul {
+  margin: 10px 0;
+}
+
+.talent h3 {
+  margin: 5px 0;
+  color: #333;
+}
+
+.footer {
+  margin-top: 30px;
+  text-align: center;
+  color: #666;
+}
+
+.footer a {
+  color: #333;
+}
